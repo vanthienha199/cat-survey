@@ -11,7 +11,7 @@ CatPhotoApp is a simple HTML-based project that displays a collection of cat-rel
 
 ## File Structure
 
-- `index.html` - The main HTML file containing the structure and content of the project.
+- `cat-survey.html` - The main HTML file containing the structure and content of the project.
 
 ## Technologies Used
 
@@ -23,7 +23,7 @@ CatPhotoApp is a simple HTML-based project that displays a collection of cat-rel
    ```bash
    git clone git@github.com:vanthienha199/cat-survey.git
    ```
-2. Open the `index.html` file in your browser to view the CatPhotoApp.
+2. Open the `cat-survey.html` file in your browser to view the CatPhotoApp.
 
 ## Project Content
 
